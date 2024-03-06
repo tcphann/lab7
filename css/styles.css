@@ -1,0 +1,27 @@
+td, th {
+	border: 3px solid;
+  }
+  body {
+  background-image: url("../images/space.png");
+  
+  #main {
+    margin: 30px;
+  }
+}
+ h1, tr, th {
+    color: white; /* Set content color to black */
+  }
+  h1 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    text-shadow: 3px 3px 5px blue;
+   
+  }
+  
+  section {
+    margin-bottom: 30px;
+    font-family: Times New Roman, serif;
+  }
